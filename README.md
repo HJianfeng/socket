@@ -1,5 +1,6 @@
 # socket
-Vue3 + Koa + Socket.io 实时聊天
+Vue3 + Koa + Socket.io 实时聊天  
+服务端的代码在 /server 里面
 
 ## 启动项目
 
